@@ -1,0 +1,44 @@
+.content {
+   background-image: linear-gradient(to right,#00281a, #00084d);
+   padding: 80px;
+   color: #fff;
+}
+.col {
+    height: 400px;
+    width: 400px;
+    cursor: pointer;
+}
+.col:hover {
+    
+}
+button {
+    background-color: #00c77a;
+    color: #1b1b1b;
+    width: 200px;
+    height: 75px;
+}
+.navs {
+    background-image: linear-gradient(to right,#00281a, #00084d);
+}
+.content3 {
+    background-image: linear-gradient(to bottom left,#350033, #050505);
+}
+.beta {
+    width: 600px;
+    /* height: 700px; */
+    background-color: black;
+    margin: 0 auto;
+}
+
+.bg {
+    background-color:black;
+} 
+.betb {
+    position: fixed;
+    top: 300px;
+    
+
+}
+.betb img {
+    margin: 9px;
+}
